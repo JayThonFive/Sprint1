@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f8c695d-a3ea-4218-b5b9-4550127fe8a6" name="Changes" comment="Presentación">
-      <change beforePath="$PROJECT_DIR$/Alex.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alex.java" afterDir="false" />
-    </list>
+    <list default="true" id="1f8c695d-a3ea-4218-b5b9-4550127fe8a6" name="Changes" comment="Creacion rama Hawer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Rama_Hawer" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
