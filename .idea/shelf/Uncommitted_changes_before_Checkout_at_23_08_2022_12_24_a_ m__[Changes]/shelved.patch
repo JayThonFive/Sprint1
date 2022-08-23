@@ -1,0 +1,55 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="1f8c695d-a3ea-4218-b5b9-4550127fe8a6" name="Changes" comment="Presentación Hawer Calderon" />
++    <list default="true" id="1f8c695d-a3ea-4218-b5b9-4550127fe8a6" name="Changes" comment="Creacion rama Hawer" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -15,6 +15,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+@@ -78,7 +83,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1661230368737</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Creacion rama Hawer">
++      <created>1661231232723</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1661231232723</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -107,6 +119,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Presentación" />
+     <MESSAGE value="Presentación Hawer Calderon" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Presentación Hawer Calderon" />
++    <MESSAGE value="Creacion rama Hawer" />
++    <option name="LAST_COMMIT_MESSAGE" value="Creacion rama Hawer" />
+   </component>
+ </project>
+\ No newline at end of file
